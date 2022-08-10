@@ -12,6 +12,7 @@ Fund Size: **500,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/c/campaigns/26600/about)
 
 ## Challenge Brief
+
 It's no secret that Cardano is recognized as a blockchain with a strong focus on Africa, and formally stated as such in Cardano's strategic goals. However, as other blockchain protocols recognize the potential of crypto in Africa, without concrete sustained action, Cardano risks losing a potential $1 trillion in market share of the African market to other blockchains within the next 3 years.
 
 - **Africa's crypto market has grown by $105 billion in the last year (2020-2021)**. Africa is the next crypto frontier- World Economic Forum
@@ -26,7 +27,9 @@ This needs to be reversed through intentional action. Otherwise smaller and smal
 ### Why is it important?
 
 We need to look at the fundamentals that are preventing Africa from being a Cardano adoption leader, rather than a perpetual follower.
+
 ### What does success look like?
+
 Practical innovations offered on tackling the unique challenges faced by the continent. A clear roadmap that points to increased adoption.
 
 ### Key Metrics to measure

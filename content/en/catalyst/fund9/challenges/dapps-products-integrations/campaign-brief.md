@@ -14,8 +14,9 @@ Fund Size: **7,850,000  USD paid in Ada**
 ## Challenge Brief
 
 Dapps, Products & Integrations is focused on the following areas:
-   - Creation or improvement of different Dapps, products, and integrations that provide value to the Cardano community and wider ecosystem.
-   - Integrations with other existing services, products, and protocols that improve the end-user experience whether that's giving the user more options or making something easier to use that benefits the wider ecosystem.
+
+- Creation or improvement of different Dapps, products, and integrations that provide value to the Cardano community and wider ecosystem.
+- Integrations with other existing services, products, and protocols that improve the end-user experience whether that's giving the user more options or making something easier to use that benefits the wider ecosystem.
 
 Cardano needs a thriving ecosystem of different Dapps, products and integrations for the community to use that increasingly become the better alternatives over current centralized providers.
 
@@ -80,9 +81,11 @@ It’s time for the Catalyst community to step up and provide developers with th
 It’s time to think big!
 
 ### Why is it important?
+
 Quality Dapps, products and integrations will increase the utility & adoption of Cardano.
 
 ### What does success look like?
+
 Novel and viable applications and products get built on top of Cardano attracting users. Integrations manage to pull in more adoption.
 
 ### Key Metrics to measure

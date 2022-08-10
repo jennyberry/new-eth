@@ -29,14 +29,13 @@ These dApps range from basic Treasury management, to Decision making in DAOs and
 - Similar tools that offer superior features to those offered on other chains.
 - Effective Collaboration Management Platforms to Organize Community Intentions and Actions
 - Additional not yet existing tools to give Cardano a distinct advantage
-- Tools for prospective organizations to use in evaluating the features available in Cardano DAO's
+- Tools for prospective organizations to use in evaluating the features available in Cardano DAO's:
+ - DAO community collaboration
+ - DAO creation
+ - DAO operation
+ - DAO governance.
 
-    - DAO community collaboration
-    - DAO creation
-    - DAO operation
-    - DAO governance.
-
-## why is it Important?
+## Why is it Important?
 
 Blockchain applications have moved from Currency to DeFi, to NFT. DAOs are Next.  Cardano needs to be ready for when that happens.
 
