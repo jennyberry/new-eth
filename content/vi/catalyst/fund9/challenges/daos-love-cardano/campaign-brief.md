@@ -32,10 +32,10 @@ Các dApp này bao gồm từ quản lý Kho bạc cơ bản, đến Ra quyết 
 - Các công cụ bổ sung chưa hiện có để mang lại cho Cardano một lợi thế khác biệt
 - Các công cụ để các tổ chức tiềm năng sử dụng trong việc đánh giá các tính năng có sẵn trong Cardano DAO's
 
-    - Cộng đồng DAO
-    - Tạo DAO
-    - Hoạt động DAO
-    - Quản trị DAO.
+  - Cộng đồng DAO
+  - Tạo DAO
+  - Hoạt động DAO
+  - Quản trị DAO.
 
 ## Tại sao nó lại quan trọng?
 

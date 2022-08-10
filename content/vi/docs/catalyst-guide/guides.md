@@ -185,11 +185,11 @@ Việc bạn có thể chia sẻ thêm những thông tin cần thiết là rấ
 
 Để làm cho dự án của từng cá nhân trở nên mạnh mẽ nhất có thể, chúng tôi khuyến khích mọi người dùng nền tảng tiên tiến để thảo luận từng ý tưởng. Trên thực tế, chúng tôi đã tạo ra các hướng dẫn dành cho người đánh giá để giúp bạn định hướng cho bài đánh giá của mình. Để có được những cuộc hội thoại hiệu quả và nhiều thông tin, chúng tôi khuyến khích mọi người tập trung phản hồi trên những phương diện sau đây:
 
-* Khả năng đánh giá: * Những chi tiết nào còn thiếu trong dự án mà giúp cho người đánh giá đánh giá chính xác dự án?
+*Khả năng đánh giá:* Những chi tiết nào còn thiếu trong dự án mà giúp cho người đánh giá đánh giá chính xác dự án?
 
 *Sự ảnh hưởng:* Làm cách nào mà dự án có thể giải quyết tốt hơn thách thức này? Làm cách nào mà chúng ta khuyến khích được mọi người xây dựng dApps trên Cardano trong vòng 6 tháng tới?
 
-* Tính khả thi: * Những cách nào để chỉnh sửa ngân sách, kế hoạch và phạm vi của dự án để làm cho nó dễ đạt được hơn.
+*Tính khả thi:* Những cách nào để chỉnh sửa ngân sách, kế hoạch và phạm vi của dự án để làm cho nó dễ đạt được hơn.
 
 **Ví dụ**
 
