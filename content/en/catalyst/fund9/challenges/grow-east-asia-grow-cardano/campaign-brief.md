@@ -12,6 +12,7 @@ Fund Size: **250,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/c/campaigns/26602/about)
 
 ## Challenge Brief
+
 As in Africa, raising the awareness levels of regular people in East Asia about blockchain and the Cardano network should be a priority for the Catalyst community. In this challenge, we provide funding for people who have learned about Cardano to take advantage of the community's support and build on or use the Cardano network.
 
 The nature of the proposals for this challenge is open-ended. Their only requirement is to originate or focus on East Asia and include east Asian team members or focus on East Asian participants.
@@ -29,12 +30,15 @@ Addressing different parts of the world directly and intentionally through fundi
 It is a vision that needs votes to become an achievement. When the challenge succeeds, the beneficiary is the whole Cardano community. It is a call to close our prejudices and open our eyes, hearts and minds to good people who lack the benefits many of us were born with—allowing others with fewer privileged circumstances to rise and succeed.
 
 ### Why is it important?
+
 The Cardano community leans heavily toward North America and Europe. Growth elsewhere requires our support and initiative as a community.
 
 ### What does success look like?
+
 A broad spectrum of people across Asia and connected to Asia, coming together and forming teams to grow our ecosystem.
 
 ### Key Metrics to measure
+
 At the end of this challenge, we will be asking ourselves some questions about the quality of participation :
 
 - The number of proposals originating from East Asian participants in Project Catalyst

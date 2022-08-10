@@ -24,12 +24,14 @@ This needs to be reversed through intentional action. Otherwise smaller and smal
 "Having a funding round that focuses on Africa is a win, win, win scenario. Africa wins by getting some backing. Commercial projects that are already building up in Africa win, because they get the signal of support from our community. Cardano holders win when there is an encouraging environment for mass adoption anywhere. Focusing on Africa is a strategy that has often been promoted and is openly pursued by IOG and Charles Hoskinson. The ROI is likely to be high because community sponsored projects are better run in young and developing economies." Greg Bell; (originator of the Grow Cardano series)
 
 ### Why is it important?
+
 We need to look at the fundamentals that are preventing Africa from being a Cardano adoption leader, rather than a perpetual follower.
 ### What does success look like?
 Practical innovations offered on tackling the unique challenges faced by the continent. A clear roadmap that points to increased adoption.
 
 ### Key Metrics to measure
-- Number of proposals addressing the fundamental issues preventing Cardano adoption in Africa 
+
+- Number of proposals addressing the fundamental issues preventing Cardano adoption in Africa
 - Number of proposals offering solutions to infrastructure and education concerns
 - Number of new Africa-based users onboarded onto Cardano (wallets, platform sign-ups)
 - Number of new Africa-based Catalyst members (proposers, voters, CAs)

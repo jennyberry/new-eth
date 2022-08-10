@@ -22,22 +22,24 @@ The dRep could not be more important to Cardano given the following
 
 For the dRep to function better, the following four elements are necessary
 
-1. dReps must be diverse.
-2. There should be many dReps.
-3. High delegation participation rate.
-4. Appropriate selection of dReps for delegation.
+- dReps must be diverse.
+- There should be many dReps.
+- High delegation participation rate.
+- Appropriate selection of dReps for delegation.
 
 Failure to achieve (1) and (2) is centralization, and failure to achieve (3) and (4) is Catalyst dysfunction.
 
-Therefore, after one year, "(1) More than 200 dReps from more than 100 countries have participated. (2) Voters are voting with more than 50% and with careful consideration of their mandate." 
+Therefore, after one year, "(1) More than 200 dReps from more than 100 countries have participated. (2) Voters are voting with more than 50% and with careful consideration of their mandate."
 
 This proposal was created to create a situation where What tools, events, support, and content would fully achieve the KPIs? Let's think about it!
 
 ### Why is it important?
+
 Without a diverse and many dRep participation will make us centralized.
 and without an easy and proper voter delegation would make us dysfunctional.
 
 ### What does success look like?
+
 After one year;
 
 - 200+ dReps from 100+ countries have participated.

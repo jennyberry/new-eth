@@ -10,6 +10,7 @@ description: "How can we provide Student Entrepreneurs with a place to appeal th
 Fund Size: **100,000 USD paid in Ada**
 
 [Campaign page](https://cardano.ideascale.com/c/campaigns/26599/about)
+
 ## Challenge Brief
 
 Student entrepreneurs have exciting business ideas and motivations to start a business, but they lack the resources to implement them. In particular, the shortage of development funds and engineers is serious, and students have few opportunities to get these resources. However, Catalysts are easier to raise money than VCs(Venture Capital) and Business Contests, and also can connect globally with engineers in this community. However, the number of proposals to Catalysts is increasing rapidly, and the community does not easily notice small-scale proposals from students. In addition, it is difficult to set a clear Roadmap while resources are scarce and to get a high evaluation from CA(Community Advisor).
@@ -20,12 +21,15 @@ The Category Goal is to encourage engineers to scout students who are evaluated 
 
 
 ### Why is it important?
+
 Most student entrepreneurs are suffering from resource shortages, especially in funding and engineer recruitment.
 
 ### What does success look like?
+
 By setting up a student category and increasing the exposure of their ideas, they can expect easier funding and scouted from engineers.
 
 ### Key Metrics to measure
+
 - Number of proposals for this category
 - Number of applause and comments from the community
 - Number of proposals that could be collaborated with other engineers

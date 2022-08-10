@@ -17,7 +17,7 @@ Dapps, Products & Integrations is focused on the following areas:
    - Creation or improvement of different Dapps, products, and integrations that provide value to the Cardano community and wider ecosystem.
    - Integrations with other existing services, products, and protocols that improve the end-user experience whether that's giving the user more options or making something easier to use that benefits the wider ecosystem.
 
-Cardano needs a thriving ecosystem of different Dapps, products and integrations for the community to use that increasingly become the better alternatives over current centralized providers. 
+Cardano needs a thriving ecosystem of different Dapps, products and integrations for the community to use that increasingly become the better alternatives over current centralized providers.
 
 The more interesting and useful the products and integrations are that can be built in the ecosystem the more reasons people have to interact with the Cardano blockchain that can help further drive more adoption, feedback, growth and even more innovations.
 
@@ -58,7 +58,6 @@ The more interesting and useful the products and integrations are that can be bu
 ### Funding Categories Background
 
 Funding Categories is an approach to doing funding categorisation that will welcome all ideas, maximize the amount of ideas submitted and reduce the effort for all stakeholders in the Catalyst process.
-
 
 Funding categories also help remove the existing issues with challenge settings. They help to prevent duplicate challenge settings, remove challenges created by self interest, reduce the need for deep knowledge of the ecosystem from challenge proposal teams and also removes an easy entry point for malicious actors.
 

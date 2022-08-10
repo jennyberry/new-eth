@@ -42,6 +42,7 @@ We should observe an **increase in open-source contributions** to different proj
 We should observe an **increase in reputability** of the Cardano Open Source projects. The measure can be done by looking at media communications of various open source communities.
 
 ## Challenge brief
+
 **Open standards** built on the principles of openness, transparency and consensus lay the grounds for innovation, growth and fair competition. ***Open standards are not synonymous of open source.*** [OPSTD]
 
 We look at Open Source as the best way to enable interoperability between different technologies and applications. But in the Cardano Ecosystem we have a set of open source projects that have no standards for basic cross-project integration. For instance, there are no standards on how to document, set-up, and contribute-to projects. Moreover, there is no common infrastructure that the projects can use to track issues, and publish basic public information about the projects funded by the community.

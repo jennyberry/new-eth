@@ -12,7 +12,9 @@ Fund Size: **900,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/c/campaigns/26598/about)
 
 ## Challenge Brief
+
 #### Background
+
 Why is this Challenge needed?
 
 - Tribalism & maximalism are harmful.
@@ -22,6 +24,7 @@ Why is this Challenge needed?
 - We have common challenges. Let’s solve those together.
 
 ### Common challenges for all blockchain communities
+
 You could buddy up with someone from outside Cardano ecosystem and address one or more of these common challenges:
 
 - Awareness & Understanding
@@ -35,6 +38,7 @@ You could buddy up with someone from outside Cardano ecosystem and address one o
 - Security & Privacy
 
 ### Examples of proposals you can submit to this challenge
+
 This is an open-ended challenge that welcomes any proposal geared for cross-chain collaboration, co-innovation and interoperability. These can be any community-led projects, initiatives, solutions, tools or services. These could be, for instance:
 
 - New technical implementations connecting Cardano to other blockchains and vice versa (SDKs, APIs, bridges etc)
@@ -46,6 +50,7 @@ This is an open-ended challenge that welcomes any proposal geared for cross-chai
 - Common research, education, outreach and innovation projects with other chains and communities (e.g. podcasts, hackathons, webinars, communication hubs, educational resources)
 
 ### Who to collaborate with?
+
 Any chains and their communities are welcome but here are some ideas of where to prioritize:
 
 - [Algorand](https://www.algorand.com/)
@@ -68,12 +73,15 @@ Any chains and their communities are welcome but here are some ideas of where to
 - [Zilliqa](https://www.zilliqa.com/)
 
 ### Why is it important?
+
 We can be a catalyst for multi-chain awareness and interoperability of blockchains which guarantees shared success in the cryptoeconomy.
 
 ### What does Sucess look like?
+
 Collaborative value creation between Project Catalyst and other communities, through both technical and non-technical initiatives alike.
 
 ### Key Metrics to measure
+
 To evaluate the success of the challenge, we can track:
 
 - On-chain activity growth due to new cross-chain implementations
