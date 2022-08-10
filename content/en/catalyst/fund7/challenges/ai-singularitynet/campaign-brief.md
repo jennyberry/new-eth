@@ -10,6 +10,7 @@ Fund Size: **$500,000 USD paid in Ada**
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26247) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26247/stage/unspecified)and [Git Repository](https://github.com/Catalyst-Challenges/F7-AI-SingularityNet) and [Git Book](https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges/fund-7/a.i.-and-singularitynet-a-usd5t-market)
 
 ## Campaign Brief
+
 Artificial Intelligence will be a driving force this century. It will be at least as big as cryptocurrencies and blockchains.
 
 The Singularity community has put their trust in Cardano by voting overwhelmingly to risk the value of their AGI tokens by issuing new AGI tokens based on Cardano and moving swiftly from Ethereum to Cardano. We can reward that trust and recognize the risk they took by dedicating a community challenge to them and their field of endeavor.
@@ -18,7 +19,8 @@ The speed and efficiency of Cardano combined with the possibilities of Singulari
 
 *Also… I want a world for my kids and community where Artificial Intelligence's goals are as beneficial and ethical as Cardano's*
 
-## why is it Important?
+## Why is it Important?
+
 The SingularityNet/Cardano partnership can make a beneficial powerhouse that drives this century's innovations in Artificial Intelligence
 
 ## Marketplace/News
@@ -43,19 +45,20 @@ some facts:
 -**Enables anyone to take advantage of a global network of AI algorithms, services, and agent.** No longer must AI technology exist in silos, only capable of operating within a specific company, infrastructure, or industry.
 - **Sophia**, the world's most expressive robot, is one of our first use cases.
 
-
-
 ## How does success look like?
+
 - SingularityNet teams and individuals arrive on Catalyst enthused by the possibilities for proposals and funding.
 - Catalyst users get exposed to SingularityNet's technologies and get excited by the ways they could be used.
 - Great collaborations happen before, during and after the challenge.
 - The challenge is looked back on as part of the beginning of a great partnership between two crypto communities.
 
 ## Guiding Questions
+
 - What do SingularityNet's technologies make possible?
 - How and where can AI + Cardano benefit society?
 
 ## Potential directions
+
 - AI improvements to help project Catalyst scale to many times its current size
 - AI projects that fire the community's imagination and enthusiasm
 - Knowledge base & Documentation
@@ -63,6 +66,7 @@ some facts:
 - Hackathons
 
 ## Key Metrics to measure
+
 - Return on intention
 - Number of proposals submitted
 - Number of proposals with teams composed of both Cardano and SingularityNet community members

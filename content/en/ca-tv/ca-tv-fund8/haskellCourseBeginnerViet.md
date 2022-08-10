@@ -31,6 +31,7 @@ There are many developers who are very interested in building projects on Cardan
 [**Youtube**](https://www.youtube.com/watch?v=et1WeaZlQm0)
 
 **Mr. Quang Daniel:**
+
 - 7 years of experience as an English teacher and translator
 
 [**Telegram**](https://t.me/quangdaniel)

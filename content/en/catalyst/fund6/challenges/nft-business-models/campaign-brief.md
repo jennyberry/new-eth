@@ -1,10 +1,8 @@
 ---
 title: "NFT Business models"
 linkTitle: "NFT Business models"
-type: docs
-hide_feedback: true
----
 
+---
 What non-Art use cases of NFTs can distinguish Cardano as the blockchain of choice for NFT based businesses?
 
 Fund Size: **$200,000 USD paid in Ada**
@@ -34,6 +32,7 @@ Many high quality ideas will be proposed that can substantially grow Cardano's u
 - The number of proposals that directly address NFT use cases in a quantifiable manner.
 - The quality of proposals measured by community interest and engagement.
 - Results of any Fund7 funded projects significantly impacting NFT utility on the Cardano blockchain.
+
 ## References
 
 1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/NFT-Business-models/352815-48088)
