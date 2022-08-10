@@ -87,6 +87,7 @@ We are seasoned Catalyst community members and "interoperability maximalists" wh
 Cardano technology stack is finally mature enough to start inviting proposals for cross-chain collaboration and interoperability. Our proposed challenge is intentionally left open ended and it welcomes a multitude of different solutions. Worthwhile ideas submitted in this challenge should help grow and improve the Cardano and Catalyst community in the near term (next 6-9 months).
 
 This challenge is therefore aligned with the Fund8 strategic goals:
+
 - It helps prepare people to make contributions to the Cardano and Catalyst ecosystem.
 - It helps turn Cardano into an open source project recognized also beyond our community.
 - It accelerates the growth and evolution of our developer & app ecosystem by inviting contributions from the rest of the blockchain space.

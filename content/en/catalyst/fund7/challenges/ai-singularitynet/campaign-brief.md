@@ -28,9 +28,11 @@ The SingularityNet/Cardano partnership can make a beneficial powerhouse that dri
 some facts:
 
 ### Microsoft
+
 - Is acquiring Nuance for $19.7 Billion - to deliver new cloud and AI capabilities across healthcare and other industries
 
 ### **McKinsey** estimates AI techniques have the potential to:
+
 - Create between $3.5T and $5.8T in value annually across nine business functions in 19 industries.
 - $2.6T additional value in Marketing and Sales
 - $2T in Supply Chain Management and Manufacturing.
@@ -39,8 +41,7 @@ some facts:
 - Have an 11.6% impact on Travel industry revenues
 - Have a 10.2% impact on High Tech.
 - In 69% of the use cases in the study, AI and deep neural networks improved performance beyond what existing analytic techniques were able to deliver
-
-### **SingularityNET** was born from a collective will to distribute the power of AI.
+- **SingularityNET** was born from a collective will to distribute the power of AI.
 - **A full-stack AI solution powered by a decentralized protocol** and the first and only decentralized platform allowing AIs to cooperate and coordinate at scale, removing one of the major limiting factors to AI growth today — the lack of interoperability — which severely restricts the ability to leverage the strengths and capabilities of individual AIs.
 -**Enables anyone to take advantage of a global network of AI algorithms, services, and agent.** No longer must AI technology exist in silos, only capable of operating within a specific company, infrastructure, or industry.
 - **Sophia**, the world's most expressive robot, is one of our first use cases.

@@ -36,6 +36,7 @@ At the end of this challenge, we will be asking ourselves some questions about t
 We will also be asking some specific questions about the quality of the proposals.
 
 -Is there good feedback on funded project progress, failure or success, that help us understand the nuances of deploying Cardano solutions across East Asia?
+
 - What is the novelty and appropriateness of solutions?
 - Are we on track to improve the lives of people using Cardano in East Asia?
 - Was social and environmental impact evaluation used to measure proposal performance?

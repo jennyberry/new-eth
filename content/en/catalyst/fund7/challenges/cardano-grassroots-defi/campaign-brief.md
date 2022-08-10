@@ -51,6 +51,7 @@ This challenge intends to sow new teams, who have never received funding from Ca
 Each new team can request up to 25% of the total $200,000 USD budget, also know as $50,000 USD.
 
 E.g.
+
 - Team A with 2 proposals of $25,000 USD
 - Team B with 5 proposals of $10,000 USD
 - Team C with 1 proposal of $50,000 USD
@@ -59,7 +60,6 @@ E.g.
 ## Why is it Important?
 
 So that new teams can have a kickstart in their projects without having to resort to ICOs and VCs allocation.
-
 
 ## How does success look like?
 

@@ -137,6 +137,7 @@ Discover repeatable patterns that unlock our ability to leverage the Cardano dec
 
 With that as background, we are suggesting proposals in the following three areas:
 
-1. Interoperability between Cardano and Indy anchored DIDs/VCs.
-2. Self-governance of Emergent Communities
-2. Circular Supply Chain
+- Interoperability between Cardano and Indy anchored DIDs/VCs.
+- Self-governance of Emergent Communities
+- Circular Supply Chain
+

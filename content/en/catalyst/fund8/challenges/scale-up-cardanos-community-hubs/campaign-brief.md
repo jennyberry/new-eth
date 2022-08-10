@@ -88,9 +88,9 @@ In simpler terms, consider why a hub exists, in the context of it's location, ac
 
 When you **drive adoption at the ground level**, you are doing more than just 'building cool products', you are **empowering people to change their lives** in ways they could have never imagined by themselves.
 
-![](https://i.imgur.com/bZQvrLI.jpeg)
+![Scale-Up Cardano](https://i.imgur.com/bZQvrLI.jpeg)
 
-![](https://i.imgur.com/MWddZex.gif)
+![Scale-Up Cardano](https://i.imgur.com/MWddZex.gif)
 
 #### Extra reading (where we are going):
 
