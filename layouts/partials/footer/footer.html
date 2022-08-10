@@ -7,11 +7,21 @@
         </ul>
       </div>
       <div class="col-lg-8 order-first order-lg-last text-lg-end">
+        <hr class="text-black-50 my-4 d-lg-none">
+        <ul class="list-inline">
+          {{ range .Site.Menus.social -}}
+            <li class="list-inline-item">
+              <a class="list-inline-item" href="{{ .URL | relURL }}">{{ .Pre | safeHTML }}<small class="ms-2 d-lg-none">{{ .Name | safeHTML }}</small></a>
+            </li>
+          {{ end -}}
+        </ul>
+
         <ul class="list-inline">
           {{ range .Site.Menus.footer -}}
             <li class="list-inline-item"><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
           {{ end -}}
         </ul>
+       
       </div>
     </div>
   </div>

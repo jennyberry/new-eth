@@ -1,13 +1,19 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Catalyst Eastern Townhall"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
+titleAddition = "Home"
 description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
 
 ## Documentation
 # docsVersion = "0.3"
+
+# Set site logo or disable
+siteLogo = true
+siteLogoLight = "/images/logo-light.png"
+siteLogoDark = "/images/logo-dark.png"
+siteLogoWidth = "280px" # width adjustment or set 'auto'
 
 ## Open Graph
 images = ["doks.png"]
@@ -83,25 +89,25 @@ repoHost = "GitHub"
 docsRepo = "https://github.com/h-enk/doks"
 docsRepoBranch = "master"
 docsRepoSubPath = ""
-editPage = false
+editPage = true
 lastMod = false
 
 [sections]
-  sectionNav = ["docs", "guides"]
+  sectionNav = ["docs"]
 
 [options]
   lazySizes = true
   clipBoard = true
   instantPage = true
   flexSearch = true
-  searchSectionsShow = []
-  searchSectionsIndex = []
+  searchSectionsShow = ["docs", "catalyst"]
+  searchSectionsIndex = ["docs", "blog"]
   darkMode = true
   bootStrapJs = true
-  breadCrumb = false
+  breadCrumb = true
   highLight = true
   kaTex = false
-  multilingualMode = false
+  multilingualMode = true
   docsVersioning = false
   fullWidth = false
   navbarSticky = true

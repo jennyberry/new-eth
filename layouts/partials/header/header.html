@@ -8,11 +8,15 @@
 
 <div class="header-bar"></div>
 
-<header class="navbar navbar-expand-lg navbar-light doks-navbar">
-  <nav class="container-{{ if .Site.Params.options.fullWidth }}fluid{{ else }}xxl{{ end }} flex-wrap flex-lg-nowrap" aria-label="Main navigation">
-
-    <a class="navbar-brand order-0" href="{{ "/" | relLangURL }}" aria-label="{{ .Site.Params.Title }}">
-      {{ .Site.Params.Title }}
+<header class="navbar navbar-expand-md navbar-light doks-navbar">
+  <nav class="container-{{ if .Site.Params.options.fullWidth }}fluid{{ else }}xxl{{ end }} flex-wrap flex-md-nowrap" aria-label="Main navigation">
+    <a class="navbar-brand p-0 me-auto" href="{{ "/" | relLangURL }}" aria-label="{{ .Site.Params.Title }}">
+      {{ if .Site.Params.siteLogo }}
+        <img class="logo-light" src="{{ .Site.Params.siteLogoLight }}" width="{{ .Site.Params.siteLogoWidth }}">
+        <img class="logo-dark d-none" src="{{ .Site.Params.siteLogoDark }}" width="{{ .Site.Params.siteLogoWidth }}">
+      {{ else }}
+        {{ .Site.Params.Title }}
+      {{ end }}
     </a>
 
     {{ if (in .Site.Params.sections.sectionNav .Section) -}}
@@ -93,13 +97,13 @@
         {{ end -}}
 
         <hr class="text-black-50 my-4 d-lg-none">
-        <ul class="nav flex-column flex-lg-row">
+        <!-- <ul class="nav flex-column flex-lg-row">
           {{ range .Site.Menus.social -}}
             <li class="nav-item">
               <a class="nav-link social-link" href="{{ .URL | relURL }}">{{ .Pre | safeHTML }}<small class="ms-2 d-lg-none">{{ .Name | safeHTML }}</small></a>
             </li>
           {{ end -}}
-        </ul>
+        </ul> -->
 
         {{ if .Site.Params.options.darkMode -}}
         <hr class="text-black-50 my-4 d-lg-none">

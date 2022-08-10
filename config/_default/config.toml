@@ -1,5 +1,5 @@
-baseurl = "https://doks.netlify.app/"
-canonifyURLs = false
+baseurl = "https://jennyberry.github.io/new-eth/"
+canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
@@ -12,6 +12,10 @@ rssLimit = 10
 defaultContentLanguage = "en"
 disableLanguages = ["de", "nl"]
 # defaultContentLanguageInSubdir = true
+
+# Search
+[params]
+mainSections = ["catalyst", "docs"]
 
 # add redirects/headers
 [outputs]

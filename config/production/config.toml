@@ -1,1 +1,2 @@
-canonifyURLs = false
+baseurl = "https://jennyberry.github.io/new-eth/"
+canonifyURLs = true
