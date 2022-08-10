@@ -27,6 +27,7 @@ Provide 6 high quality educational videos and post in Cardano Indonesia's Offici
 [**LinkedIn**](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2xNVlJVTjBDQWgxenhvcHhRQU1tdUxJZGpsZ3xBQ3Jtc0tudVBqaV82aHotRFM1T0lBT09lVV9NS2pGUFlTMWJ4VXJCX0VJX0ttTjZIV2luZXNQcG1kaXg4Z2tRbXN6dnQxMEI5Q3FYM2FZNjdFaDh1VHpZOC13OVgtQ0pWWk5fX3FuN01JMmVLNnFhZHBvbmdDWQ&q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdion-p-setyotomo-4ab6508)
 
 **Andreas Sosilo**
+
 - Software Developer
 - Cardano Foundation Ambassador for Indonesia
 - Cardano Indonesia Community Manager

@@ -20,6 +20,7 @@ Build a rewarding mechanism to encourage members to find out the news, documents
 ### Meet the Team:
 
 **Do Manh Hung**
+
 - Master of financial
 - Community manager
 - Plutus Pioneer

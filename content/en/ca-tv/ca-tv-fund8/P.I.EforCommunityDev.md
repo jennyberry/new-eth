@@ -26,6 +26,7 @@ P.I.E stands for Proposal Implementation Evaluation, A series of 3 proposals wit
 ### Meet the Team:
 
 **Huy Dinh Vuong**
+
 - Over 6 years of experience in academic research & data analytics in a Think Tank of Ho Chi Minh City Government.
 - Master in Regional & Urban Planning, experience in public plan/planning/project implementation evaluation.
 - A member of The Young Southeast Asian Leaders Initiative (YSEALI) - a U.S. government's signature program to strengthen leadership development and networking in Southeast Asia.

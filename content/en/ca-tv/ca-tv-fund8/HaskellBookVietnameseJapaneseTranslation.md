@@ -24,6 +24,7 @@ Cardano's Smart Contract is built on Haskell. But there is no book or document a
 ### Meet the Team:
 
 **Mr. Quang Daniel:**
+
 - 7 years of experience as an English teacher and translator
 
 [**Telegram**](https://t.me/quangdaniel)

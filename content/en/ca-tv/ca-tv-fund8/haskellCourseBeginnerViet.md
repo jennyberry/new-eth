@@ -24,6 +24,7 @@ There are many developers who are very interested in building projects on Cardan
 ### Meet the Team:
 
 **Mr. Curtis D'Alves**
+
 - 5 years of Haskell programming experience
 - Haskell Programming Tutorial Youtube Channel
 
@@ -35,6 +36,7 @@ There are many developers who are very interested in building projects on Cardan
 [**Telegram**](https://t.me/quangdaniel)
 
 **Hannah Gates**
+
 - Founder of Vietnamese Cardano Community (helping 40k followers)
 - One year of experience in operating a stake pool (SPO)
 - Experience in blockchain financial research and investment since 2017 Blockchain product and market research specialist

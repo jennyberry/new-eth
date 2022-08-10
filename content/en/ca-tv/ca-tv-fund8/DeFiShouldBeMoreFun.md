@@ -50,6 +50,7 @@ Founder of Unicorn Studio - Having more than 11 years of developing games, 5 yea
 ### Further Information
 
 #### Unicorn Studio
+
 Unicorn studio is our current key partner for the development of the early phases of this project. With a professional team of 20+ members in gaming and blockchain development, Unicorn studio will help us kill the roadmap on time and make the best quality game. Moreover, Founder Christian Ho and CEO Andy Nguyen of Unicorn studio are also key members of Miverse and will help to build an independent in-house development team for our long-term sustainable development after the success of the first phase.
 
 For more info about the team members and their ability to develop this project, please check this [portfolio](https://drive.google.com/file/d/1zi696iR7UKfY_517Jua1o9an933wDXn1/view)

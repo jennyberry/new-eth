@@ -30,6 +30,7 @@ Strategy info from the weekly Cardano Townhall has not promptly reached the majo
 [Twitter](https://twitter.com/tiennganh)
 
 **Hieu Nguyen Van**
+
 - Founder of HADA stake pool, member of Plutus Pioneer Program, Lead Technical Support at many successful startups.
 
 [Email](nvhieu1978@gmail.com)
@@ -38,6 +39,7 @@ Strategy info from the weekly Cardano Townhall has not promptly reached the majo
 [Facebook](https://www.facebook.com/hieu.nguyenvan.794628)
 
 **Mie Tran**
+
 - Eastern Townhall co-host
 - Vietnam Eastern Townhall moderator & Interpreter
 - Cardano Vietnam Catalyst project Telegram co-host
@@ -46,6 +48,7 @@ Strategy info from the weekly Cardano Townhall has not promptly reached the majo
 [LinkedIn](https://www.linkedin.com/in/ngocmytranle0407/)
 
 **Tan To Nguyen Duy**
+
 - experienced engineer in DevOps. Having worked in many technology conglomerates in Vietnam, startups also. Participating in building many software systems serving hundreds of thousands of users, such as Payments, Social Networking.
 
 [**Website**](https://tantnd.me)

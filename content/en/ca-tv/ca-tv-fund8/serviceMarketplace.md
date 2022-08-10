@@ -29,6 +29,7 @@ description: "Lacking a place to gather skilled people able to supply support se
  **Ms.Ha Nguyen**
 
 An experienced businessman in e-commerce business, exchanging goods and services on Marketplaces.
+
 - 5 years of business management experience.
 - Having 2 years of research on blockchain
 - Participated in Catalyst as CA, Proposer.
