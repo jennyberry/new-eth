@@ -140,7 +140,7 @@ project.
 > John Doe completed his PhD with a focus on incentive schemes for blockchain treasury systems.
 >
 > In Conclusion*
-
+>
 > - Find your competitive edge and make sure that it is well known
 > - This might look different for different kinds of projects
 > - Remember that your audience is other people on the innovation platform

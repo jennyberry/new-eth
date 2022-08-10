@@ -31,12 +31,13 @@ Các dApp này bao gồm từ quản lý Kho bạc cơ bản, đến Ra quyết 
 - Nền tảng quản lý cộng tác hiệu quả để tổ chức các ý định và hành động của cộng đồng
 - Các công cụ bổ sung chưa hiện có để mang lại cho Cardano một lợi thế khác biệt
 - Các công cụ để các tổ chức tiềm năng sử dụng trong việc đánh giá các tính năng có sẵn trong Cardano DAO's
+
     - Cộng đồng DAO
     - Tạo DAO
     - Hoạt động DAO
     - Quản trị DAO.
 
-## tại sao nó lại quan trọng?
+## Tại sao nó lại quan trọng?
 
 Các ứng dụng chuỗi khối đã chuyển từ Tiền tệ sang DeFi, sang NFT. DAO là Tiếp theo. Cardano cần phải sẵn sàng khi điều đó xảy ra.
 

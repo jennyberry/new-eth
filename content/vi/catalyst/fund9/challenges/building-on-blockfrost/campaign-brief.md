@@ -32,8 +32,10 @@ Thách thức này được đặt ra để tạo ra một hệ sinh thái nhà 
 - Phát triển các khuôn khổ mới
 - Nghiên cứu các khái niệm mới
 - Tài liệu giáo dục
-    - Đóng góp vào cổng tài liệu blockfrost.dev
-    - Các bài đăng trên blog, các bài báo và hướng dẫn
+
+  - Đóng góp vào cổng tài liệu blockfrost.dev
+  - Các bài đăng trên blog, các bài báo và hướng dẫn
+
 - SDK cho NFT minting và quản lý NFT
 - Bảng điều khiển và các lựa chọn thay thế giao diện người dùng
 - Kiểm toán cơ sở mã hiện có
