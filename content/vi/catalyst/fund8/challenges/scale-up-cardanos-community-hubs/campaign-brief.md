@@ -88,9 +88,9 @@ Nói một cách đơn giản hơn, hãy xem xét lý do tại sao một trung t
 
 Khi bạn **thúc đẩy việc áp dụng ở cấp độ cơ bản** , bạn đang làm nhiều việc hơn là chỉ 'tạo ra những sản phẩm tuyệt vời', bạn đang **trao quyền cho mọi người thay đổi cuộc sống của họ** theo những cách mà họ có thể không bao giờ tưởng tượng được.
 
-![](https://i.imgur.com/bZQvrLI.jpeg)
+![Các trung tâm cộng đồng mở rộng quy mô](https://i.imgur.com/bZQvrLI.jpeg)
 
-![](https://i.imgur.com/MWddZex.gif)
+![Các trung tâm cộng đồng mở rộng quy mô](https://i.imgur.com/MWddZex.gif)
 
 #### Đọc thêm:
 

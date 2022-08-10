@@ -52,7 +52,7 @@ Những người đề xuất xem xét các giải pháp IOHK / EMURGO Atala Pri
 
 Các nhà đề xuất khuyên các nhà đề xuất nên có được nền tảng kiến thức thông qua nghiên cứu được thực hiện trong ba thập kỷ qua để làm sáng tỏ những nguyên nhân "bí ẩn" của tình trạng nghèo đói ở các nước thế giới thứ ba của nhà kinh tế học Hernando de Soto. Cuốn sách đính kèm, "Bí ẩn của tư bản," là một tài liệu tham khảo tuyệt vời để tìm hiểu bối cảnh cho bất kỳ ai tham gia phát triển các đề xuất cho thách thức này.
 
-* ***Lưu ý:*** Coi chính quyền là của dân, vì dân và do dân.
+ **Lưu ý:** Coi chính quyền là của dân, vì dân và do dân.
 
 #### Video giới thiệu
 
