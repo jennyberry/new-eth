@@ -33,7 +33,7 @@ Mỗi một quỹ sẽ có những thách thức riêng mà các đề xuất s�
 **Vấn đề đặt ra**
 
 > Những nhà đóng góp không muốn đối phó với tình trạng quan liêu\mất thời gian trong việc bảo đảm nguồn vốn. Làm cách nào để giúp những người đóng góp cho Cardano hợp lý hoá các dự án?
-
+>
 > Tôi đang cố gắng giải quyết vấn đề khởi động phong trào tài chính mở \ phi tập trung trên Cardano trước khi Plutus và Marlowe tấn công mainnet.
 
 Trong cả hai ví dụ này thì mối quan hệ giữa các vấn đề và các thách thức thì khá rõ ràng. Đây là những gì mà những người bỏ phiếu đang tìm kiếm. Tuy nhiên, mặc dù nội dung của các vấn đề đặt ra khá rõ ràng và hiệu quả, chúng vẫn có thể được cải thiện.
@@ -86,6 +86,7 @@ Bạn chỉ có 140 kí tự để trình bày rất nhiều thông tin quan tr�
 - Giải quyết vấn đề một cách trực tiếp để đảm bảo rằng giải pháp của bạn đạt được thách thức
 - Làm cho dự án của bạn nổi bật thông qua sự khác biệt
 - Tạo một giải pháp giải quyết vấn đề thay vì tìm kiếm một vấn đề
+
 ### Những kinh nghiệm liên quan (tối đa 140 kí tự)
 
 #### Tìm kiếm lợi thế của bạn
@@ -130,13 +131,13 @@ Giải pháp của bạn hoạt động trên thị trường bằng một cách
 
 Lộ trình của bạn để sáp nhập người dùng và nền tảng là rõ ràng và được suy nghĩ kỹ lưỡng.
 
-> * Ví dụ: *  Truy cập vào thông tin mạng thúc đẩy sáp nhập người dùng mà không mất phí
+> *Ví dụ:*  Truy cập vào thông tin mạng thúc đẩy sáp nhập người dùng mà không mất phí
 
 #### Sự độc quyền
 
 Khi bạn phát triển trong lĩnh vực này, công ty của bạn thực sự trở nên mạnh mẽ hơn.
 
-> * Ví dụ: * Sử dụng giao thức Ouroboros cho phép hệ thống của chúng tôi trở nên an toàn hơn khi sự phi tập trung tăng lên.
+> *Ví dụ:* Sử dụng giao thức Ouroboros cho phép hệ thống của chúng tôi trở nên an toàn hơn khi sự phi tập trung tăng lên.
 
 #### Hãy cho chúng tôi biết số quỹ bạn cần
 
@@ -199,6 +200,7 @@ Việc bạn có thể chia sẻ thêm những thông tin cần thiết là rấ
 - Đưa ra những phản hồi tốt để làm cho những dự án khác đáng tin cậy hơn
 - Kết hợp những phản hồi có ích cho dự án của mình
 - Tham gia trực tiếp trong quá trình cải tiến để đảm bảo rằng nó vẫn tiếp tục phát triển
+
 ### Làm cách nào để viết một dự án lựa chọn của cộng đồng
 
 #### Giải phóng cho cộng đồng
