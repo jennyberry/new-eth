@@ -1,10 +1,8 @@
 ---
 title: "FIMI-Vietnamese Cardano Talk"
-
 # date: 2022-04-01
 description: "How to raise awareness among Vietnamese about Cardano so that it can be adopted into real life in 2022 and after that?"
 ---
-
 {{<  youtube qOxHYojoAlE >}}
 
 ## Catalyst TV - FIMI-Vietnamese Cardano Talk
@@ -16,12 +14,12 @@ How to raise awareness among Vietnamese about Cardano so that it can be adopted 
 Build a rewarding mechanism to encourage members to find out the news, documents of Cardano, then present them to the community every week.
 
 - **Challenge:** Scale-UP Cardano's Community Hubs
-- **Proposal:** [FIMI-Vietnamese Cardano Talk](https://cardano.ideascale.com/c/idea/403743)  
+- **Proposal:** [FIMI-Vietnamese Cardano Talk](https://cardano.ideascale.com/c/idea/403743)
 - **Requested Fund:** 45000
 
 ### Meet the Team:
 
-##### **Do Manh Hung**
+**Do Manh Hung**
 - Master of financial
 - Community manager
 - Plutus Pioneer
@@ -42,5 +40,6 @@ During the past 5 years, we have built a youtube channel dedicated to Cardano. A
 - More than 138,000 hours of watch
 
 #### Track the team activities
+
 [**Youtube**](https://www.youtube.com/channel/UCoyi5FmVh6aFY2pWM0EI8Vg/videos)
 [**Website**](https://fimi.vn/ada/)
