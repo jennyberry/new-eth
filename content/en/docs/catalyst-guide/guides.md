@@ -90,6 +90,7 @@ Here’s the complete problem statement which condenses the information above:
 > Money transfer to Philippines workers should be affordable. However, 11% of the population are losing 1B$ in transaction fees per year. Research links [1],[2]“
 >
 > *In Conclusion*
+>
 > - State your desired outcome and the problem blocking it
 > - Define the cost of the problem
 > - Give evidence for your findings
@@ -114,7 +115,7 @@ solution is different from others.
 > in the next 6 months?
 >
 > In Conclusion
-
+>
 > - Address the problem directly to ensure that your solution rises to the challenge
 > - Make your project stand out through differentiation
 > - Create a solution that solves a problem instead of one looking for a problem.
