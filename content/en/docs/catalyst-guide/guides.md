@@ -19,14 +19,14 @@ to feel confident in contributing to the discussion as a whole.
 The quality of the output is dependent on the community’s ability to create and engage with new
 ideas. To that end, we would like to share a quick guide to writing successful proposals:
 
-### Proposing a title (35 char limit) 
+### Proposing a title (35 char limit)
 
 The proposal name should give an indication of the innovation that you are trying to achieve
 while also grabbing people’s attention. But we want to avoid any slick marketing speak. Just tell
 your audience what it does and who it is for as clearly as possible. Keep it simple and
 informative and keep your audience in mind.
 
-**Example Title:** 
+**Example Title:**
 
 > Stake pool operator vlog network
 
@@ -39,21 +39,24 @@ originally be set by the Project Catalyst team and then opportunities will arise
 to develop their own. It is crucial that proposals address the challenge directly. Here is an
 example of a challenge and some problem statements which address it.
 
-#### Challenge 
+#### Challenge
 
 > How can we encourage developers and entrepreneurs to build Dapps and businesses
+
 on top of Cardano in the next 6 months?
 
 **Problem statements**
 
 > Builders don’t want to deal with the red tape\time cost of securing funding.
+
 How do we help Cardano builders streamline proposals?
 
 > I am trying to solve the problem of bootstrapping decentralized\open
+
 finance movement on Cardano before Plutus and Marlowe hit mainnet.
 
 In both of these examples the relationship between the problem statements and the challenge
-is apparent. This is what voters will be looking for. However, while the content of the problem 
+is apparent. This is what voters will be looking for. However, while the content of the problem
 statements is clear and effective, these problem statements can be improved.
 
 ### Making great problem statements (140 char. limit)
@@ -107,10 +110,11 @@ solution is different from others.
 
 *Example solution statement*
 
-> How can we encourage developers and entrepreneurs to build Dapps and businesses on top of Cardano 
+> How can we encourage developers and entrepreneurs to build Dapps and businesses on top of Cardano
 > in the next 6 months?
-> 
+>
 > In Conclusion
+
 > - Address the problem directly to ensure that your solution rises to the challenge
 > - Make your project stand out through differentiation
 > - Create a solution that solves a problem instead of one looking for a problem.
@@ -122,19 +126,20 @@ solution is different from others.
 Find your ‘competitive edge’ and ensure you drive it home. We can break down your competitive edge into
 a couple of different categories. Your solution should include an explanation of as many of these
 competitive edges as possible. Remember, the people voting on these proposals want to see yours as a
-‘sure thing’. If you can clearly explain why you are different from any of the other projects in the 
+‘sure thing’. If you can clearly explain why you are different from any of the other projects in the
 blockchain space, then you have a significant competitive advantage.
 
-#### Founders 
+#### Founders
 
 The people who are working on your proposal can lend their personal expertise and work history to the
 project.
 
-*Example Experience:* 
+*Example Experience:*
 
 > John Doe completed his PhD with a focus on incentive schemes for blockchain treasury systems.
 >
 > In Conclusion*
+
 > - Find your competitive edge and make sure that it is well known
 > - This might look different for different kinds of projects
 > - Remember that your audience is other people on the innovation platform
