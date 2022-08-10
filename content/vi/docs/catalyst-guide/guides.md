@@ -64,9 +64,11 @@ Sau đây là một báo cáo vấn đề hoàn chỉnh được cô đọng t�
 > "Tiền chuyển đến người lao động ở Philippines nên có giá cả hợp lí. Tuy nhiên, 11% dân số đang mất 1 tỷ Đô cho chi phí chuyển tiền hằng năm. Đường link nghiên cứu [1], [2]"
 
 #### Kết luận
+
 - Vạch ra kết quả mong muốn đạt được và những rào cản của nó
 - Xác định được chi phí của vấn đề
 - Đưa ra bằng chứng cho những phát hiện của bạn
+
 ### Giải pháp (Tối đa 140 kí tự)
 
 #### Cấu trúc cho giải pháp
@@ -80,6 +82,7 @@ Bạn chỉ có 140 kí tự để trình bày rất nhiều thông tin quan tr�
 > Tạo một tạp chí kỹ thuật số do nhà điều hành bể đào duy trì trên blockchain để giới thiệu Cardano với các đối tượng mới bên ngoài người dùng hiện tại.
 
 #### Kết luận
+
 - Giải quyết vấn đề một cách trực tiếp để đảm bảo rằng giải pháp của bạn đạt được thách thức
 - Làm cho dự án của bạn nổi bật thông qua sự khác biệt
 - Tạo một giải pháp giải quyết vấn đề thay vì tìm kiếm một vấn đề
@@ -96,7 +99,9 @@ Những người đang làm việc trên dự án của bạn có thể cho mư�
 *Ví dụ:*
 
 > John Doe hoàn thành bằng tiến sĩ của anh ấy với trọng tâm là khuyến khích các hệ thống cho quỹ của blockchain.
+
 #### Kết luận
+
 - Tìm điểm mạnh của bạn và chắc chắn rằng nó được nhiều người biết đến
 - Điều này có thể khác nhau với những loại dự án khác nhau
 - Nhớ rằng người xem dự án là những người khác trên nền tảng phát triển
