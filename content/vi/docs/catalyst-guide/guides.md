@@ -194,7 +194,7 @@ Việc bạn có thể chia sẻ thêm những thông tin cần thiết là rấ
 
 > Nếu sáng kiến quảng bá của bạn cung cấp chính xác số lượng người dùng mà nó đang cố gắng đưa vào làm KPI thì việc theo dõi sự thành công của nó sẽ dễ dàng hơn nhiều.
 
-#### Kết luận*
+#### Kết luận
 
 - Đưa ra những phản hồi tốt để làm cho những dự án khác đáng tin cậy hơn
 - Kết hợp những phản hồi có ích cho dự án của mình
