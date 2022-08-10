@@ -9,7 +9,6 @@ menu:
 weight: 220
 toc: true
 ---
-
 What will drive mass-scale adoption of decentralized IDs on Cardano?
 
 Fund Size: **$250,000 USD paid in Ada**
