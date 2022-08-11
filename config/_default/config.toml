@@ -13,10 +13,6 @@ defaultContentLanguage = "en"
 disableLanguages = ["de", "nl"]
 # defaultContentLanguageInSubdir = true
 
-# Search
-[params]
-mainSections = ["catalyst", "docs"]
-
 # add redirects/headers
 [outputs]
 home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
