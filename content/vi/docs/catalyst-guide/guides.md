@@ -32,9 +32,9 @@ Mỗi một quỹ sẽ có những thách thức riêng mà các đề xuất s�
 
 **Vấn đề đặt ra**
 
-> Những nhà đóng góp không muốn đối phó với tình trạng quan liêu\mất thời gian trong việc bảo đảm nguồn vốn. Làm cách nào để giúp những người đóng góp cho Cardano hợp lý hoá các dự án?
+> Những nhà đóng góp không muốn đối phó với tình trạng quan liêu/ mất thời gian trong việc bảo đảm nguồn vốn. Làm cách nào để giúp những người đóng góp cho Cardano hợp lý hoá các dự án?
 >
-> Tôi đang cố gắng giải quyết vấn đề khởi động phong trào tài chính mở \ phi tập trung trên Cardano trước khi Plutus và Marlowe tấn công mainnet.
+> Cố gắng giải quyết vấn đề khởi động phong trào tài chính mở/ phi tập trung trên Cardano trước khi Plutus và Marlowe tấn công mainnet.
 
 Trong cả hai ví dụ này thì mối quan hệ giữa các vấn đề và các thách thức thì khá rõ ràng. Đây là những gì mà những người bỏ phiếu đang tìm kiếm. Tuy nhiên, mặc dù nội dung của các vấn đề đặt ra khá rõ ràng và hiệu quả, chúng vẫn có thể được cải thiện.
 
@@ -46,7 +46,7 @@ Những trình bày về vấn đề xác định các vấn đề liên quan đ
 
 **Kết quả mong muốn:** Điều này vẽ lên một bức tranh với những bối cảnh lý tưởng một khi giải pháp của bạn đã được chấp thuận.
 
-**Vấn đề rào cản:**Giải thích ngắn gọn về vấn đề ngăn chặn những trường hợp này xảy ra.
+**Vấn đề rào cản:** Giải thích ngắn gọn về vấn đề ngăn chặn những trường hợp này xảy ra.
 
 **Chi phí của vấn đề:** Tóm tắt cả cơ hội và những chi phí tài chính của vấn đề cho những bên liên quan chính. Điều này nhằm giúp cho người bỏ phiếu đánh giá được mức độ ảnh hưởng của vấn đề.
 

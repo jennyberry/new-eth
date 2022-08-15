@@ -1,7 +1,7 @@
 ---
-title: "Pages"
-description: "Add a default page, documentation page, blog post or contributor page. Customize the homepage and 404 page."
-lead: "Add a default page, documentation page, blog post or contributor page."
+title: "Tạo trang"
+description: "Add a default page, documentation page, blog post or contributor page."
+lead: "Thêm trang mặc định, trang tài liệu, bài đăng trên blog hoặc trang cộng tác viên"
 date: 2020-11-23T11:55:16+01:00
 lastmod: 2020-11-23T11:55:16+01:00
 draft: false
@@ -9,7 +9,7 @@ images: []
 weight: 211
 toc: true
 ---
-## Content tree:
+## Cấu trúc tệp nội dung:
 
 ```bash
 ..
@@ -54,7 +54,7 @@ toc: true
 └── _index.md
 ```
 
-See also the Hugo docs: [Content Organization](https://gohugo.io/content-management/organization/).
+Tham khảo tài liệu trên Hugo: [Content Organization](https://gohugo.io/content-management/organization/).
 
 ## Add a default page
 

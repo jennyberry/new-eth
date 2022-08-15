@@ -20,4 +20,4 @@ If you've just spotted something you'd like to change while using the docs, Doks
 
 ## Creating an issue
 
-If you've found a problem in the c3eth documenation, but you're not sure how to fix it yourself, please create an issue in the [c3eth repo](https://github.com/c3eth/c3eth.github.io/issues). You can also create an issue about a specific page by clicking the **Create Issue** button in the top right hand corner of the page.
+If you've found a problem in the c3eth documenation, but you're not sure how to fix it yourself, please create an issue in the [c3eth repo](https://github.com/c3eth/c3eth.github.io/issues).

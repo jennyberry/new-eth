@@ -22,17 +22,17 @@
   url = "/catalyst/overview/catalyst-overview/"
 
 [[main]]
-  name = "Catalyst TV"
+  name = "📺 TV"
   weight = 50
   identifier = "catalyst-tv"
   url = "/ca-tv/ca-tv-intro/intro/"
 
 
-# [[main]]
-#   name = "Catalyst School"
-#   weight = 50
-#   identifier = "school"
-#   url = "https://getdoks.org/tutorial/introduction/"
+[[main]]
+  name = "🏫 School"
+  weight = 50
+  identifier = "school"
+  url = "/"
 
 [[catalyst]]
   name = "Overview"
