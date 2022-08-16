@@ -11,6 +11,9 @@ This repository contains C3ETH translations of Project Catalyst documentation, c
 
 [Project Catalyst](https://cardano.ideascale.com/) is the **beginning** of bringing on-chain governance to Cardano. It is a series of experiments that leverage the collective intelligence of the Catalyst Community to determine the future direction and development of the Cardano ecosystem. Through a series of innovation funds, the community sources ideas decides which to fund, and finances them. Sourcing the best ideas for building a global blockchain.
 
+## Demo
+ [New ETH Website](https://jennyberry.github.io/new-eth/)
+
 ## Building with a local development environment
 
 The Website is built using [Doks](https://getdoks.org/) which is a [Hugo](https://gohugo.io/) theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize.
@@ -73,7 +76,7 @@ Doks will start the Hugo development webserver accessible by default at `http://
 
 ## Edit Website Documents
 
-The documents are in the ```content/{en,vn,ja}``` directories, select the desired section to edit or add, for content organization please refer to: https://gohugo.io/content-management/organization/.
+The documents are in the ```content/{en,vi,ja}``` directories, select the desired section to edit or add, for content organization please refer to: https://gohugo.io/content-management/organization/.
 
 ## Change Log
 
