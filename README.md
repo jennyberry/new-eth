@@ -34,10 +34,6 @@ git --version
 
 Install the latest LTS version or newer of [Node.js](https://nodejs.org/).
 
-{{< details "Why Node.js?" >}}
-Doks uses npm (included with Node.js) to centralize dependency management, making it [easy to update]({{< relref "how-to-update" >}}) resources, build tooling, plugins, and build scripts.
-{{< /details >}}
-
 #### Check Node.js install
 
 ```bash
