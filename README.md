@@ -1,159 +1,102 @@
-<p align="center">
-  <a href="https://getdoks.org/">
-    <img alt="Doks" src="https://doks.netlify.app/doks.svg" width="60">
-  </a>
-</p>
+# Cardano Catalyst Community Eastern Townhall website
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-<h1 align="center">
-  Doks
-</h1>
+## Overview
 
-<h3 align="center">
-  Modern Documentation Theme
-</h3>
+This repository contains Cardano Catalyst Community (C3) Eastern Townhall (ETH) updates and related documentation. C3ETH is helping to enable community members from a wide variety of countries and languages in the eastern timezones. A particular focus of the team is to localise Cardano Catalyst content and on-boarding to enable the widest participation possible.
 
-<p align="center">
-  Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize.
-</p>
+This repository contains C3ETH translations of Project Catalyst documentation, community-sourced documentation, and related proposals. The content is translated into the many languages of the eastern hemisphere, with a particular focus on East Asian languages.
 
-<p align="center">
-  <a href="https://github.com/h-enk/doks/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/h-enk/doks?style=flat-square" alt="GitHub">
-  </a>
-  <a href="https://github.com/h-enk/doks/releases">
-    <img src="https://img.shields.io/github/v/release/h-enk/doks?include_prereleases&style=flat-square"alt="GitHub release (latest SemVer including pre-releases)">
-  </a>
-  <a href="https://www.npmjs.com/package/@hyas/doks">
-    <img src="https://img.shields.io/npm/v/@hyas/doks?style=flat-square" alt="npm (scoped)">
-  </a>
-  <a href="https://github.com/h-enk/doks/actions?query=workflow%3A%22Hyas+CI%22">
-    <img src="https://img.shields.io/github/workflow/status/h-enk/doks/Hyas%20CI/master?style=flat-square" alt="GitHub Workflow Status (branch)">
-  </a>
-  <a href="https://app.netlify.com/sites/doks/deploys">
-    <img src="https://img.shields.io/netlify/8a1009d5-88ac-413e-96ef-3f928674a083?style=flat-square" alt="Netlify">
-  </a>
-</p>
+[Project Catalyst](https://cardano.ideascale.com/) is the **beginning** of bringing on-chain governance to Cardano. It is a series of experiments that leverage the collective intelligence of the Catalyst Community to determine the future direction and development of the Cardano ecosystem. Through a series of innovation funds, the community sources ideas decides which to fund, and finances them. Sourcing the best ideas for building a global blockchain.
 
-![Doks — Modern Documentation Theme](https://raw.githubusercontent.com/h-enk/doks/master/images/doks.png)
+## Building with a local development environment
 
-## Demo
+The Website is built using [Doks](https://getdoks.org/) which is a [Hugo](https://gohugo.io/) theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize.
 
-- [doks.netlify.app](https://doks.netlify.app/)
+### Prerequisites
 
-## Why Doks?
+#### Git
 
-Nine main reasons why you should use Doks:
+Install the latest source release of [Git](https://git-scm.com/).
 
-1. __Security aware__. Get A+ scores on [Mozilla Observatory](https://observatory.mozilla.org/analyze/doks.netlify.app) out of the box. Easily change the default Security Headers to suit your needs.
-
-2. __Fast by default__. Get 100 scores on [Google Lighthouse](https://googlechrome.github.io/lighthouse/viewer/?gist=59aafe464a68f8bc30b8e9a636d5b053) by default. Doks removes unused css, prefetches links, and lazy loads images.
-
-3. __SEO-ready__. Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking.
-
-4. __Development tools__. Code with confidence. Check styles, scripts, and markdown for errors and fix automatically or manually.
-
-5. __Bootstrap framework__. Build robust, flexible, and intuitive websites with Bootstrap 5. Easily customize your Doks site with the source Sass files.
-
-6. __Netlify-ready__. Deploy to Netlify with sensible defaults. Easily use Netlify Functions, Netlify Redirects, and Netlify Headers.
-
-7. __Full text search__. Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking.
-
-8. __Page layouts__. Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs.
-
-9. __Dark mode__. Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.
-
-### Other features
-
-- __Multilingual and i18n__ support
-- __Versioning__ documentation support
-- __KaTeX__ math typesetting
-- __Mermaid__ diagrams and visualization
-- __highlight.js__ syntax highlighting
-
-## Requirements
-
-- [Git](https://git-scm.com/) — latest source release
-- [Node.js](https://nodejs.org/) — latest LTS version or newer
-
-<details>
-<summary>Why Node.js?</summary>
-
-Doks uses npm (included with Node.js) to centralize dependency management, making it [easy to update](https://getdoks.org/docs/help/how-to-update/) resources, build tooling, plugins, and build scripts.
-
-</details>
-
-## Get started
-
-Start a new Doks project in three steps:
-
-### 1. Create a new site
-
-Doks is available as a child theme and a starter theme.
-
-#### Child theme
-
-- Intended for novice to intermediate users
-- Intended for minor customizations
-- [Easily update npm packages](https://getdoks.org/docs/help/how-to-update/) — __including__ [Doks](https://www.npmjs.com/package/@hyas/doks)
+#### Check Git install
 
 ```bash
-git clone https://github.com/h-enk/doks-child-theme.git my-doks-site && cd my-doks-site
+git --version
 ```
 
-#### Starter theme
+#### Node.js
 
-- Intended for intermediate to advanced users
-- Intended for major customizations
-- [Easily update npm packages](https://getdoks.org/docs/help/how-to-update/)
+Install the latest LTS version or newer of [Node.js](https://nodejs.org/).
+
+{{< details "Why Node.js?" >}}
+Doks uses npm (included with Node.js) to centralize dependency management, making it [easy to update]({{< relref "how-to-update" >}}) resources, build tooling, plugins, and build scripts.
+{{< /details >}}
+
+#### Check Node.js install
 
 ```bash
-git clone https://github.com/h-enk/doks.git my-doks-site && cd my-doks-site
+node --version
 ```
 
-<details>
-<summary>Help me choose</summary>
+#### Check npm install
 
-Not sure which one is for you? Pick the child theme.
+```bash
+npm --version
+```
 
-</details>
+## Cloning the Website
 
-### 2. Install dependencies
+```bash
+$ git clone --recurse-submodules --depth 1 https://github.com/jennyberry/new-eth.git
+```
+## Change directories
+
+```bash
+cd new-eth
+```
+## Install dependencies
 
 ```bash
 npm install
 ```
+Installing dependencies can take a minute. Warnings can be ignored.
 
-### 3. Start development server
+## Start development server
 
 ```bash
 npm run start
 ```
+Doks will start the Hugo development webserver accessible by default at `http://localhost:1313` or at `http://localhost:1313/new-eth/`. Saved changes will live reload in the browser.
 
-## Other commands
+## Edit Website Documents
 
-Doks comes with [commands](https://getdoks.org/docs/prologue/commands/) for common tasks.
+The documents are in the ```content/{en,vn,ja}``` directories, select the desired section to edit or add, for content organization please refer to: https://gohugo.io/content-management/organization/.
 
-## Documentation
+## Change Log
 
-- [Netlify](https://docs.netlify.com/)
-- [Hugo](https://gohugo.io/documentation/)
-- [Doks](https://getdoks.org/)
+See [CHANGELOG.md](CHANGELOG.md) for notable changes and versions.
 
-## Communities
+## Acknowledgements
 
-- [Netlify Community](https://community.netlify.com/)
-- [Hugo Forums](https://discourse.gohugo.io/)
-- [Doks Discussions](https://github.com/h-enk/doks/discussions)
+* [Project Catalyst](https://cardano.ideascale.com/)
+* [Cardano Foundation](https://cardanofoundation.org/)
+* [IOHK Project Catalyst Team](https://iohk.io/)
+* [Hugo](https://gohugo.io/)
+* [Doks](https://getdoks.org/)
 
-## Sponsors
 
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
+## Contributing ![GitHub](https://img.shields.io/github/contributors/c3eth/c3eth.github.io)
 
-[![OC sponsor 0](https://opencollective.com/doks/tiers/sponsor/0/avatar.svg)](https://opencollective.com/doks/tiers/sponsor/0/website)
-[![OC sponsor 1](https://opencollective.com/doks/tiers/sponsor/1/avatar.svg)](https://opencollective.com/doks/tiers/sponsor/1/website)
+Please read [CONTRIBUTING.md](/README/id/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Backers
+See also the list of [contributors](https://github.com/c3eth/c3eth.github.io/graphs/contributors) who participated in this project.
 
-Support this project by becoming a backer. Your avatar will show up here.
+Thanks goes to these wonderful contributors (see [emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-[![Backers](https://opencollective.com/doks/tiers/backer.svg?49741992)](https://opencollective.com/doks)
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

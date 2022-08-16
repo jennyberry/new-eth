@@ -14,6 +14,14 @@
     languageISO = "VI"
     languageTag = "vi-VI"
 
+[ja]
+  languageName = "日本語"
+  contentDir = "content/ja"
+  weight = 10
+  [ja.params]
+    languageISO = "JA"
+    languageTag = "ja-JA"
+
 # [de]
 #   languageName = "German"
 #   contentDir = "content/de"
