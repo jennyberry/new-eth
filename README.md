@@ -49,7 +49,7 @@ npm --version
 ## Cloning the Website
 
 ```bash
-$ git clone --recurse-submodules --depth 1 https://github.com/jennyberry/new-eth.git
+$ git clone https://github.com/jennyberry/new-eth.git
 ```
 ## Change directories
 
