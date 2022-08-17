@@ -13,19 +13,19 @@ description: "Quỹ 7 - 2 phút Review (Nền tảng tích hợp - giọng Tiế
 
 ### F7: Scale-UP Cardano's Community Hubs
 
-- https://cardano.ideascale.com/c/idea/383475
+- [Ideascale](https://cardano.ideascale.com/c/idea/383475)
 
 **Ngân quỹ yêu cầu tính bằng USD là 12,000**
 
 ### F7: Multilingual resources
 
-- https://cardano.ideascale.com/c/idea/382835
+- [Ideascale](https://cardano.ideascale.com/c/idea/382835)
 
 **Ngân quỹ yêu cầu tính bằng USD là 18480**
 
 ### F7: Improve and Grow Auditability
 
-- https://cardano.ideascale.com/c/idea/384807
+- [Ideascale](https://cardano.ideascale.com/c/idea/384807)
 
 **Ngân quỹ yêu cầu tính bằng USD là 12298**
 

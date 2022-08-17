@@ -71,15 +71,21 @@
 
 [[catalyst-tv]]
   name = "Fund 7"
-  weight = 80
+  weight = 50
   identifier = "catalyst-tv-fund7"
   url = "/ca-tv/ca-tv-fund7"
 
 [[catalyst-tv]]
   name = "Fund 8"
-  weight = 80
+  weight = 60
   identifier = "catalyst-tv-fund8"
   url = "/ca-tv/ca-tv-fund8"
+
+[[catalyst-tv]]
+  name = "Fund 9"
+  weight = 70
+  identifier = "catalyst-tv-fund9"
+  url = "/ca-tv/ca-tv-fund9"
 
 [[school]]
   name = "Introduction"
