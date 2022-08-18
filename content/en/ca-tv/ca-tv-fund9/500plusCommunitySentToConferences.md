@@ -14,15 +14,11 @@ images: []
 
 As a new Cardano dApp with a lot of hustle & desire to grow quickly, we lack go-to-market resources to send this community to conferences and 100x user adoption & revenue in the next couple of months. Exhibit at major industry conferences with free tickets for the Cardano community to share the Cardano gospel, meet each other in person, and sell to decision-makers to 100x user adoption and revenue.
 
-- [Ideascale](https://cardano.ideascale.com/c/idea/...)
+- [Ideascale](https://cardano.ideascale.com/c/idea/413992)
 - **Proposer:** Ninh Tran from SnapBrillia
 - **Requested Budget:** 420000
 
 ### Tracking links:
 
-- <https://twitter.com/timbharrison/stat...>
-- <https://twitter.com/ADAGurl4Eva/statu...>
-- <https://twitter.com/IOGJohnny/status/...>
-
-
+-[Twitter](https://twitter.com/timbharrison/status/1535043082693283840)
 

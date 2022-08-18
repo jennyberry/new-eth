@@ -12,7 +12,7 @@ images: []
 
 ## Catalyst TV - Crypto collateralized loans
 
-- [Ideascale](https://cardano.ideascale.com/c/idea/...)
+- [Ideascale](https://cardano.ideascale.com/c/idea/422635)
 - **Proposer:** Lending Pond
 - **Requested Budget:** 30000
 

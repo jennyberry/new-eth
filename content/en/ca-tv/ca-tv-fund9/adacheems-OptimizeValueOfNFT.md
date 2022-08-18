@@ -12,7 +12,7 @@ images: []
 
 ## Catalyst TV - Adacheems: Optimize the value of NFT
 
-- [Ideascale](https://cardano.ideascale.com/c/idea/...)
+- [Ideascale](https://cardano.ideascale.com/c/idea/412593)
 - **Proposer:** Adacheems
 - **Requested Budget:** 50000
 

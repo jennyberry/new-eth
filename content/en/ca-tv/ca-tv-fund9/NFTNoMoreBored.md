@@ -23,5 +23,4 @@ Apparently, all the current NFT games failed to attract gamers in the mainstream
 ### Tracking links:
 
 - <https://development.miverse.io>
-- <https://bit.ly/Miverse-executive-time...>
 - <https://bit.ly/budget-est-p1-miverse>

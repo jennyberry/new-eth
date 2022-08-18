@@ -12,7 +12,7 @@ images: []
 
 ## Catalyst TV - LATAM TownHall
 
-- [Ideascale](https://cardano.ideascale.com/c/idea/...)
+- [Ideascale](https://cardano.ideascale.com/c/idea/422150)
 - **Proposer:** LATAM Town Hall
 - **Requested Budget:** 27000
 
@@ -23,5 +23,5 @@ Sharing, awareness on Cardano and places to meet and collaborate are key. Thanks
 
 - <https://discord.gg/qX32RZMFsv>
 - <https://twitter.com/LatamCardano>
-- <https://www.youtube.com/watch?v=VPiIR...>
+- <https://www.youtube.com/watch?v=VPiIR3Zeibw&t=0s>
 

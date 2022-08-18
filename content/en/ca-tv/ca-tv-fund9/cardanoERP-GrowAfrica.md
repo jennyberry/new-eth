@@ -14,7 +14,7 @@ images: []
 
 Cardano needs more developers from Africa to participate in Emurgo Academy training and developing enterprise-grade products on the Cardano blockchain. Cardano needs more developers from Africa to participate in Emurgo Academy training and developing enterprise-grade products on the Cardano blockchain.
 
-- [Ideascale](https://cardano.ideascale.com/c/idea/...)
+- [Ideascale](https://cardano.ideascale.com/c/idea/420496)
 - **Proposer:** Cardano ERP
 - **Requested Budget:** 23700
 

@@ -17,7 +17,7 @@ The solution is to make the real-world asset-backed NFTs with a compelling inter
 
 The differentiates METAIN from other Web3 companies and projects is chain has real-world use cases, has value and utility, and is asset-backed. We need to bring real-world properties' profits to the crypto world to make investments affordable, transparent, and safe.
 
-- [Ideascale](https://cardano.ideascale.com/c/idea/...)
+- [Ideascale](https://cardano.ideascale.com/c/idea/414945)
 - **Proposer:** METAIN
 - **Requested Budget:** 100000
 

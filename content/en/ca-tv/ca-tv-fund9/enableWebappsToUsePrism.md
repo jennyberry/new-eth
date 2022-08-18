@@ -14,7 +14,7 @@ images: []
 
 A browser wallet is crucial for gaining massive adoption of Atala PRISM. We saw this when MetaMask was released. Since then, it unlocked the Ethereum ecosystem to any developer. I expect that this PRISM browser wallet does the same for Atala PRISM.
 
-- [Ideascale](https://cardano.ideascale.com/c/idea/...)
+- [Ideascale](https://cardano.ideascale.com/c/idea/414258)
 - **Proposer:** Alexis Hernandez
 - **Requested Budget:** 80500
 

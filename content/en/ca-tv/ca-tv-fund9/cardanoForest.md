@@ -23,7 +23,7 @@ For more detail about Gaia, please visit: <http://www.gaiavn.org;> please select
 
 A number of trees planted in a particular area will be tokenized as an non-fungible token (NFT) which includes: planting time, the picture, the tree’s coordinate (latitude-longitude)… The NFT will be minted using cardano blockchain and provided to donors then they can easily check the result, we call each NFT as a Green Certificate. We are researching for the Dynamic Non-Fungible Token (dNFT) then the meta data of token can be updated to reflect the tree growing and its impact during its life time.
 
-- [Ideascale](https://cardano.ideascale.com/c/idea/...)
+- [Ideascale](https://cardano.ideascale.com/c/idea/414457)
 - **Proposer:** Blocktree.asia
 - **Requested Budget:** 37800
 

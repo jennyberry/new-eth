@@ -24,7 +24,7 @@ Not just real gamers hate on-chained games, but we also have no sustainable, lon
 ### Tracking links:
 
 - <https://development.miverse.io>
-- <https://bit.ly/Miverse-executive-time...>
+- [ClickUp](https://sharing.clickup.com/7505985/wb/h/75221-4427/6e95e3b6bd013b0?utm_source=clickup&utm_medium=roadmap,whiteboard&utm_campaign=catalyst_f9)
 - <https://bit.ly/budget-est-p1-miverse>
 
 

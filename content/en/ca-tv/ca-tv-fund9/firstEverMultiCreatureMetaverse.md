@@ -15,14 +15,14 @@ images: []
 Real gamers have bad prejudice toward gamefi! People think that gamers like NFT game but the fact is we can't get a single penny from them.
 Miverse multiverse with excellent visual quality, a space design with unlimited species, and art styles to change player mindsets and captivate them to play our game.
 
-- [Ideascale](https://cardano.ideascale.com/c/idea/...)
+- [Ideascale](https://cardano.ideascale.com/c/idea/417247)
 - **Proposer:** Miverse Multiverse
 - **Requested Budget:** 91400
 
 ### Tracking links:
 
 - <https://development.miverse.io>
-- <https://bit.ly/Miverse-executive-time...>
+- [ClickUp](https://sharing.clickup.com/7505985/wb/h/75221-4427/6e95e3b6bd013b0?utm_source=clickup&utm_medium=roadmap,whiteboard&utm_campaign=catalyst_f9)
 - <https://bit.ly/budget-est-p1-miverse>
 
 

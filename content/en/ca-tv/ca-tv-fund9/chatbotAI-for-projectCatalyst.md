@@ -12,7 +12,7 @@ images: []
 
 ## Catalyst TV - Chatbot AI for Project Catalyst
 
-- [Ideascale](https://cardano.ideascale.com/c/idea/...)
+- [Ideascale](https://cardano.ideascale.com/c/idea/421602)
 - **Requested Budget:** 40124
 
 The information involved in Project Catalyst is continuously updated and disseminated through many different channels and media, making it hard for users to find the neat info when needed.

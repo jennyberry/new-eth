@@ -12,7 +12,7 @@ images: []
 
 ## Catalyst TV - OpenSource MetaMask - ₳ Integration
 
-- [Ideascale](https://cardano.ideascale.com/c/idea/...)
+- [Ideascale](https://cardano.ideascale.com/c/idea/414001)
 - **Proposer:** Ninh Tran from SnapBrillia
 - **Requested Budget:** 80000
 
