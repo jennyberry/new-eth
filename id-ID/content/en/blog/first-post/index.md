@@ -1,7 +1,7 @@
 ---
-title: Pertemuan Balai Kota Belahan Bumi Timur 8
-description: Pertemuan hebat di mana kami mulai berbicara tentang Ideafest, Cardano Summit, dan Hackathons yang akan datang.
-excerpt: Pertemuan hebat di mana kami mulai berbicara tentang Ideafest, Cardano Summit, dan Hackathons yang akan datang.
+title: "Pertemuan Balai Kota Belahan Bumi Timur 8"
+description: "Pertemuan hebat di mana kami mulai berbicara tentang Ideafest, Cardano Summit, dan Hackathons yang akan datang."
+excerpt: "Pertemuan hebat di mana kami mulai berbicara tentang Ideafest, Cardano Summit, dan Hackathons yang akan datang."
 date: '2021-09-18 09:19:42 +0100'
 lastmod: '2021-09-18 09:19:42 +0100'
 draft: Salah
