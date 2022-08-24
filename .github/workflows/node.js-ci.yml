@@ -1,4 +1,4 @@
-name: Hyas CI
+name: Smoke run
 
 on:
   push:
