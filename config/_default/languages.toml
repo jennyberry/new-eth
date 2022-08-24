@@ -22,6 +22,15 @@
     languageISO = "JA"
     languageTag = "ja-JA"
 
+[id]
+  languageName = "Indonesian"
+  contentDir = "content/id"
+  weight = 10
+  [id.params]
+    languageISO = "ID"
+    languageTag = "id-ID"
+
+
 # [de]
 #   languageName = "German"
 #   contentDir = "content/de"
